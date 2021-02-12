@@ -6,7 +6,7 @@ char DATO = 0;
 int LEDROJO = 2;
 int LEDVERDE = 3;
 
-// L298N Control Pins
+// L298N Control Pins //
 const int LeftMotorForward = 4;
 const int LeftMotorBackward = 5;
 const int RightMotorForward = 6;
